@@ -17,7 +17,7 @@ num++;
 }
 }
 
-Do loop –
+Do loop â€“
 
 #include<stdio.h>
 int main()
@@ -31,7 +31,7 @@ num++;
 while (num<=100);
 }
 
-For loop –
+For loop â€“
 #include<stdio.h>
 int main()
 {
@@ -145,10 +145,10 @@ question 10.
 #include<stdio.h>
 Int main()
 {
-Printf(“*” \n);
-Printf(“**”\n);
-Printf(“***”\n);
-Printf(“****”\n);
+Printf(â€œ*â€ \n);
+Printf(â€œ**â€\n);
+Printf(â€œ***â€\n);
+Printf(â€œ****â€\n);
 }
 
 11.
